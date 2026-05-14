@@ -19,7 +19,7 @@ require (
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.18.0 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.9.0 // indirect
-	github.com/BurntSushi/toml v1.5.0 // indirect
+	github.com/BurntSushi/toml v1.6.0 // indirect
 	github.com/apache/arrow-go/v18 v18.3.0 // indirect
 	github.com/aws/aws-sdk-go v1.55.7 // indirect
 	github.com/bahlo/generic-list-go v0.2.0 // indirect

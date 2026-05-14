@@ -22,7 +22,7 @@ require (
 
 require (
 	cel.dev/expr v0.23.1 // indirect
-	github.com/BurntSushi/toml v1.5.0 // indirect
+	github.com/BurntSushi/toml v1.6.0 // indirect
 	github.com/NYTimes/gziphandler v1.1.1 // indirect
 	github.com/antlr4-go/antlr/v4 v4.13.1 // indirect
 	github.com/apache/arrow-go/v18 v18.3.0 // indirect
